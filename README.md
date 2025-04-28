@@ -5,11 +5,11 @@
 Meu nome é Matheus Santos, tenho 23 anos e sou de Brasília. Possuo diversos cursos voltados para a área de tecnologia e atualmente estou cursando Engenharia de Software e Cibersegurança. Sou entusiasta da tecnologia e pretendo compartilhar meu conhecimento por aqui e através do meu perfil no LinkedIn.
 
 <p align="left">
-  <a href="SEU_LINK_INSTAGRAM">
-    <img alt="Instagram" title="Siga-me no Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-Siga%20me-000?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="SEU_LINK_GITHUB">
-    <img alt="GitHub Followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/SEU_NOME_DE_USUARIO_GITHUB?color=000&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://www.instagram.com/s_m4theuss?igsh=NXptMGIwZzIzYzU4&utm_source=qr">
+    <img alt="Instagram" title="Siga-me no Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-Siga%20me-000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Smatheus-dev">
+    <img alt="GitHub Followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/smatheus-dev?color=000&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="SEU_LINK_LINKEDIN">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte--se-000?style=for-the-badge&logo=linkedin-in&logoColor=white"/>
